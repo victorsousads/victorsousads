@@ -1,6 +1,7 @@
 # 🌟 Olá, Comunidade do GitHub! 👋
 
-Me chamo Victor Silva, sou formado em Técnico em Eletrônica e Manutenção/Suporte em Informática. Atualmente, estou em busca de uma graduação em Engenharia Elétrica ou Mecatrônica para me especializar no setor de Controle e Automação Industrial, programação industrial e áreas afins.
+Me chamo Victor Silva, sou formado em Técnico em Eletrônica e Manutenção/Suporte em Informática. Sou curioso com programação e sempre que tenho oportunidade, desenvolvo alguns projetos pessoais. Durante minha formação, me interessei pela Internet das Coisas (IoT) e comecei a aplicar meus conhecimentos em Eletrônica e Automação para criar sensores com Arduino e automações avançadas usando o Home Assistant e Node-RED na minha própria casa. Atualmente, estou em busca de uma graduação em Engenharia Elétrica ou Mecatrônica para me especializar no setor de Controle e Automação Industrial, Programação Industrial e áreas afins.
+
 
 ### Linguagens de Programação:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -24,9 +25,9 @@ Me chamo Victor Silva, sou formado em Técnico em Eletrônica e Manutenção/Sup
 
 ## 📫 Como Me Encontrar
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn](URL_do_LinkedIn)
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) [Email](mailto:seuemail@example.com)
-
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/victor-sousa-492687134/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) [Email](mailto:victorsousadasilva1@outlook.com)
+  
 ---
 
-🙌 Obrigado por visitar meu perfil! Vamos nos conectar e colaborar em projetos interessantes!
+🙌 🙌 Desejo colaborar com essa comunidade e em breve apresentarei alguns projetos. Muito obrigado pela sua visita ao meu perfil! Estou disposto a nos conectar e cooperar em projetos relevantes.
