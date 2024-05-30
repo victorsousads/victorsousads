@@ -29,11 +29,4 @@ Me chamo Victor Silva, sou formado em Técnico em Eletrônica e Manutenção/Sup
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
-
----
-
 🙌 Obrigado por visitar meu perfil! Vamos nos conectar e colaborar em projetos interessantes!
