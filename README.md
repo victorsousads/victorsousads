@@ -1,6 +1,6 @@
 # 🌟 Olá, Comunidade do GitHub! 👋
 
-Me chamo Victor Silva, sou formado em Técnico em Eletrônica e Manutenção/Suporte em Informática. Sou curioso com programação e sempre que tenho oportunidade, desenvolvo alguns projetos pessoais. Durante minha formação, me interessei pela Internet das Coisas (IoT) e comecei a aplicar meus conhecimentos em Eletrônica e Automação para criar sensores com Arduino e automações avançadas usando o Home Assistant e Node-RED na minha própria casa. Atualmente, estou em busca de uma graduação em Engenharia Elétrica ou Mecatrônica para me especializar no setor de Controle e Automação Industrial, Programação Industrial e áreas afins.
+Me chamo Victor Silva, sou Técnico em Eletrônica e Manutenção/Suporte em Informática. Sou curioso com programação e sempre que tenho oportunidade, desenvolvo alguns projetos pessoais. Durante minha formação, me interessei pela Internet das Coisas (IoT) e comecei a aplicar meus conhecimentos em Eletrônica e Automação para criar sensores com Arduino e automações avançadas usando o Home Assistant e Node-RED na minha própria casa. Atualmente, estou em busca de uma graduação em Engenharia Elétrica ou Mecatrônica para me especializar no setor de Controle e Automação Industrial, Programação Industrial e áreas afins.
 
 
 ### Linguagens de Programação:
